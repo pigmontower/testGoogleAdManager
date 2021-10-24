@@ -1,0 +1,6 @@
+framework module Pods_testGoogleAdManager {
+  umbrella header "Pods-testGoogleAdManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
